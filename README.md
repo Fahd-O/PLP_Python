@@ -7,43 +7,54 @@ Each folder has its own README with details of the tasks completed for that week
 
 ## 📂 Repository Structure
 
-PLP-Python-Assignments/ │ ├── Week-1/ │   ├── basic_calculator.py │   ├── personalized_greeting.py │   ├── simple_quiz_game.py │   ├── random_joke_generator.py │   └── README.md │ ├── Week-2/ │   ├── list_operations.py │   └── README.md │ └── README.md
+PLP-Python-Assignments/
+│
+├── Week-1/
+│   ├── basic_calculator.py
+│   └── README.md
+│
+├── Week-2/
+│   ├── list-operations.py
+│   └── README.md
+│
+├── Week-3/
+│   ├── discount_calculator.py
+│   └── README.md
+│
+└── README.md   ← (main repo overview)
+
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/Fahd-O/PLP-Python.git
+	```bash
+	git clone https://github.com/Fahd-O/PLP-Python.git
 
 2. Open the desired week’s folder:
-
-cd PLP-Python/Week-x
-
+	```bash
+	cd PLP-Python/Week-x
 
 3. Run the program:
-
-python filename.py
-
-
+	```bash
+	python filename.py
 
 
 ---
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
-Python 3.x
+- Python 3.x
 
-VS Code
+- VS Code
 
-Git & GitHub
-
+- Git & GitHub
 
 
 ---
 
-✨ Author
+## ✨ Author
 
 Abiola Fahad Ogunnaike
-[Fahd-O](Https://github.com/Fahd-O
+[Fahd-O](Https://github.com/Fahd-O)
