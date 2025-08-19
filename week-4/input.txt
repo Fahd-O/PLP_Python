@@ -1,0 +1,5 @@
+Thinkers are inventers
+what goes around comes back around
+File handling allows us to read and write data easily.  
+Error handling makes programs more reliable.  
+Always test your code with different inputs.

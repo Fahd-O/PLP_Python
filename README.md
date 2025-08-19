@@ -6,23 +6,30 @@ Each folder has its own README with details of the tasks completed for that week
 ---
 
 ## 📂 Repository Structure
-
-PLP-Python-Assignments/
+```plaintext
+PLP_Python/
 │
-├── Week-1/
+├── week-1/
 │   ├── basic_calculator.py
 │   └── README.md
 │
-├── Week-2/
+├── week-2/
 │   ├── list-operations.py
 │   └── README.md
 │
-├── Week-3/
+├── week-3/
 │   ├── discount_calculator.py
 │   └── README.md
 │
+├── week-4/
+│   ├── error_handling.py
+│   ├── file_read_write.py
+│   ├── input.txt
+│   ├── output.txt
+│   └── README.md
+│
 └── README.md   ← (main repo overview)
-
+```
 
 ---
 
@@ -30,16 +37,15 @@ PLP-Python-Assignments/
 
 1. Clone this repository:
 	```bash
-	git clone https://github.com/Fahd-O/PLP-Python.git
+	git clone https://github.com/Fahd-O/PLP_Python.git
 
 2. Open the desired week’s folder:
 	```bash
-	cd PLP-Python/Week-x
+	cd PLP_Python/week-x
 
 3. Run the program:
 	```bash
 	python filename.py
-
 
 ---
 
@@ -50,7 +56,6 @@ PLP-Python-Assignments/
 - VS Code
 
 - Git & GitHub
-
 
 ---
 
