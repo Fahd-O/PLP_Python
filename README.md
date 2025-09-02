@@ -28,6 +28,10 @@ PLP_Python/
 │   ├── output.txt
 │   └── README.md
 │
+├── week-5/
+│   ├── week5_assignment.py
+│   └── README.md
+│
 └── README.md   ← (main repo overview)
 ```
 
