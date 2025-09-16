@@ -32,6 +32,17 @@ PLP_Python/
 │   ├── week5_assignment.py
 │   └── README.md
 │
+├── week-7/
+│	├── analysis_output.txt
+│	├── week7_iris_analysis.py
+│	├── week7_iris_clean.csv
+│	├── plots/
+│	│   ├── bar_avg_petal_length_by_species.png
+│	│   ├── hist_sepal_length.png
+│	│   ├── line_cumulative_sepal_length.png
+│	│   └── scatter_sepal_vs_petal.png
+│	└── README.md
+│
 └── README.md   ← (main repo overview)
 ```
 
